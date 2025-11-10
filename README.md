@@ -9,11 +9,11 @@ Repository of my posters presented as the presenting author at scientific confer
 
 - **XXXV SIMGBM Congress 2025** — *Italian Society of General Microbiology and Microbial Biotechnology (SIMGMB)*  
   *Rome, Italy* — September 17–20, 2025  
-  [Conference Programme and Abstract Book (PDF)](https://drive.google.com/file/d/1EI_QuIFRwo8yHVEUOq1etCCJmaSTBRlO/view?usp=sharing)
+  [Conference Programme and Abstract Book (PDF)](https://congress.simgbm.it/wp-content/uploads/2025/09/Congress-Proceedings.pdf)
 
 - **FEMS MICRO 2025** — *Federation of European Microbiological Societies (FEMS)*  
-  *Milan, Italy* — July 14–17, 2025  
-  [Conference Programme and Abstract Book (PDF)](https://congress.simgbm.it/wp-content/uploads/2025/09/Congress-Proceedings.pdf)
+  *Milan, Italy* — July 14–17, 2025   
+  [Conference Programme and Abstract Book (PDF)](https://drive.google.com/file/d/1EI_QuIFRwo8yHVEUOq1etCCJmaSTBRlO/view?usp=sharing)
 
 ---
 
